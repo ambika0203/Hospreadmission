@@ -4,7 +4,7 @@ Prediction - Hospital Readmission
 This project focuses on predicting hospital readmissions within 30 days and extracting clinical entities from discharge notes using machine learning and NLP techniques. The aim is to identify high-risk patients and derive meaningful insights from unstructured clinical text.
 
 ##  Files in This Repository
-- `finalhosp.ipynb` – Contains all code (data prep, model training, evaluation, and NER)
+- `fixed_finalhosp.ipynb` – Contains all code (data prep, model training, evaluation, and NER)
 - `finalreport.pdf` – Final report summarizing methodology and findings
 - `requirements.txt` – List of Python dependencies
 ## 🔍 Project Overview
